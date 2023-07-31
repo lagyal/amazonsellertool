@@ -1,4 +1,4 @@
-# amazonsellertool
+# amazon seller tool
 This is a Amazon Seller Tool for personal use.You can just use xampp and run in your personal server.
 
 Features:
